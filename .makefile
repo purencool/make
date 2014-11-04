@@ -25,4 +25,4 @@ projects[wysiwyg][subdir] = "contrib"
 Development modules.
 projects[admin_menu][subdir] = "contrib"
 projects[devel][subdir] = "development" ;
-projects[coffee][subdir] = "contrib"
+projects[coffee][subdir] = "development"
