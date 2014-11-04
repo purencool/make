@@ -32,10 +32,10 @@ projects[mothership]
 
  
 ; Libraries
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.4/ckeditor..."
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
+;libraries[ckeditor][download][type] = "get"
+;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.4/ckeditor..."
+;libraries[ckeditor][directory_name] = "ckeditor"
+;libraries[ckeditor][type] = "library"
 
 
 Development modules.
