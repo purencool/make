@@ -26,10 +26,6 @@ projects[webform][subdir] = "contrib"
 projects[views][subdir] = "contrib"
 projects[admin_menu][subdir] = "contrib"
 
-; Themes
-projects[omega][themes]
-projects[mothership][themes]
-
  
 ; Libraries
 
