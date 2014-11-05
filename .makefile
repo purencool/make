@@ -27,8 +27,8 @@ projects[views][subdir] = "contrib"
 projects[admin_menu][subdir] = "contrib"
 
 ; Themes
-projects[omega]
-projects[mothership]
+projects[omega][themes]
+projects[mothership][themes]
 
  
 ; Libraries
