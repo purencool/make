@@ -21,7 +21,7 @@ projects[entity][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 projects[features][subdir] = "contrib"
 projects[inline_entity_form][subdir] = "contrib"
-projects[jquery_update][subdir] = "contrib"
+
 projects[google_analytics][subdir] = "contrib"
 projects[gmap][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
@@ -36,11 +36,40 @@ projects[token][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[uuid][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
+
+
+
 projects[views][subdir] = "contrib"
+projects[better_exposed_filters][subdir] = contrib
+
+
+; Theming
+projects[] = omega
+projects[] = mothership
+projects[] = parrot
+projects[jquery_update][subdir] = "contrib"
+
 
 ; Libraries
+projects[modernizr][subdir] = contrib
+libraries[modernizr][download][type] = file
+libraries[modernizr][download][url] = http://modernizr.com/downloads/modernizr-latest.js
+libraries[modernizr][download][filename] = modernizr.min.js
+libraries[modernizr][destination] = libraries
+
+
+; Email
+projects[mailsystem][subdir] = contrib
+projects[mimemail][subdir] = contrib
+projects[phpmailer][subdir] = contrib
+libraries[phpmailer][download][type] = get
+libraries[phpmailer][download][url] = http://phpmailer.apache-extras.org.codespot.com/files/PHPMailer_5.2.2.tgz
+libraries[phpmailer][destination] = libraries
 
 
 Development modules.
 projects[devel][subdir] = "development"
+projects[devel_themer][subdir] = "development"
+projects[simplehtmldom][subdir] = "development"
+projects[coder][subdir] = "development"
 projects[coffee][subdir] = "development"
