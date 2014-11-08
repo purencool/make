@@ -65,9 +65,10 @@ libraries[phpmailer][download][url] = http://phpmailer.apache-extras.org.codespo
 libraries[phpmailer][destination] = libraries
 
 
-Development modules.
-projects[devel][subdir] = "development"
-projects[devel_themer][subdir] = "development"
-projects[simplehtmldom][subdir] = "development"
+; Development modules
 projects[coder][subdir] = "development"
 projects[coffee][subdir] = "development"
+projects[devel][subdir] = "development"
+projects[devel_themer][subdir] = "development"
+projects[module_filter][subdir] = "development"
+projects[simplehtmldom][subdir] = "development"
