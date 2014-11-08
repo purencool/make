@@ -21,7 +21,6 @@ projects[entity][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 projects[features][subdir] = "contrib"
 projects[inline_entity_form][subdir] = "contrib"
-
 projects[google_analytics][subdir] = "contrib"
 projects[gmap][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
@@ -31,14 +30,13 @@ projects[panels][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[shield][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
+projects[shurly][subdir] = "contrib"
+projects[shurly_service][subdir] = "contrib"
 projects[taxonomy_menu][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[uuid][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
-
-
-
 projects[views][subdir] = "contrib"
 projects[better_exposed_filters][subdir] = contrib
 
