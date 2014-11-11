@@ -64,6 +64,12 @@ libraries[phpmailer][download][type] = get
 libraries[phpmailer][download][url] = http://phpmailer.apache-extras.org.codespot.com/files/PHPMailer_5.2.2.tgz
 libraries[phpmailer][destination] = libraries
 
+; Purencool Extras
+projects[pnc_editor][type] = "module"
+projects[pnc_editor][download][type] = "git"
+projects[pnc_editor][download][url] = "https://github.com/purencool/pnc-editor.git"
+projects[pnc_editor][download][branch] = "master"
+projects[pnc_editor][destination] = "pnc"
 
 ; Development modules
 projects[coder][subdir] = "development"
