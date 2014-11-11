@@ -69,7 +69,7 @@ projects[pnc_editor][type] = "module"
 projects[pnc_editor][download][type] = "git"
 projects[pnc_editor][download][url] = "https://github.com/purencool/pnc-editor.git"
 projects[pnc_editor][download][branch] = "master"
-projects[pnc_editor][destination] = "pnc"
+projects[pnc_editor][subdir] = "pnc"
 
 ; Development modules
 projects[coder][subdir] = "development"
