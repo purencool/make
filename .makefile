@@ -72,10 +72,10 @@ projects[pnc_editor][download][branch] = "master"
 projects[pnc_editor][subdir] = "pnc"
 
 
-projects[pnc_editor][type] = "theme"
-projects[pnc_editor][download][type] = "git"
-projects[pnc_editor][download][url] = "https://github.com/purencool/mothership_subtheme.git"
-projects[pnc_editor][download][branch] = "master"
+projects[mothership_subtheme][type] = "theme"
+projects[mothership_subtheme][download][type] = "git"
+projects[mothership_subtheme][download][url] = "https://github.com/purencool/mothership_subtheme.git"
+projects[mothership_subtheme][download][branch] = "master"
 
 
 
