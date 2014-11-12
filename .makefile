@@ -71,6 +71,16 @@ projects[pnc_editor][download][url] = "https://github.com/purencool/pnc-editor.g
 projects[pnc_editor][download][branch] = "master"
 projects[pnc_editor][subdir] = "pnc"
 
+
+projects[pnc_editor][type] = "theme"
+projects[pnc_editor][download][type] = "git"
+projects[pnc_editor][download][url] = "https://github.com/purencool/mothership_subtheme.git"
+projects[pnc_editor][download][branch] = "master"
+
+
+
+
+
 ; Development modules
 projects[coder][subdir] = "development"
 projects[coffee][subdir] = "development"
