@@ -44,8 +44,10 @@ projects[better_exposed_filters][subdir] = contrib
 ; Theming
 projects[] = omega
 projects[] = mothership
-projects[] = parrot
+projects[parrot][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
+projects[html5_tools][subdir] = "contrib"
+
 
 
 ; Libraries
