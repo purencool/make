@@ -58,6 +58,7 @@ libraries[modernizr][download][filename] = modernizr.min.js
 libraries[modernizr][destination] = libraries
 
 
+
 ; Email
 projects[mailsystem][subdir] = contrib
 projects[mimemail][subdir] = contrib
@@ -66,12 +67,15 @@ libraries[phpmailer][download][type] = get
 libraries[phpmailer][download][url] = http://phpmailer.apache-extras.org.codespot.com/files/PHPMailer_5.2.2.tgz
 libraries[phpmailer][destination] = libraries
 
+
+
 ; Purencool Extras
-projects[pnc_editor][type] = "module"
-projects[pnc_editor][download][type] = "git"
-projects[pnc_editor][download][url] = "https://github.com/purencool/pnc-editor.git"
-projects[pnc_editor][download][branch] = "master"
-projects[pnc_editor][subdir] = "pnc"
+projects[pncbbuild][type] = "module"
+projects[pncbbuild][download][type] = "git"
+projects[pncbbuild][download][url] = "https://github.com/purencool/pnc-editor.git"
+projects[pncbbuild][download][branch] = "master"
+projects[pncbbuild][subdir] = "pnc"
+
 
 
 projects[pncmbtheme][type] = "theme"
