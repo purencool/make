@@ -72,7 +72,7 @@ libraries[phpmailer][destination] = libraries
 ; Purencool Extras
 projects[pncbbuild][type] = "module"
 projects[pncbbuild][download][type] = "git"
-projects[pncbbuild][download][url] = "https://github.com/purencool/pnc-editor.git"
+projects[pncbbuild][download][url] = "https://github.com/purencool/pncbbuild.git"
 projects[pncbbuild][download][branch] = "master"
 projects[pncbbuild][subdir] = "pnc"
 
