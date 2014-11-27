@@ -10,6 +10,7 @@ projects[admin_menu][subdir] = "contrib"
 projects[backup_migrate][subdir] = "contrib"
 projects[bean][subdir] = "contrib"
 projects[bean_tax][subdir] = "contrib"
+projects[better_exposed_filters][subdir] = contrib
 projects[ckeditor][subdir] = "contrib"
 projects[context][subdir] = "contrib"
 projects[context_omega][subdir] = "contrib"
@@ -35,13 +36,15 @@ projects[shield][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
 projects[shurly][subdir] = "contrib"
 projects[shurlyauto][subdir] = "contrib"
+projects[socialmedia][subdir] = "contrib"
 projects[taxonomy_menu][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[uuid][subdir] = "contrib"
-projects[webform][subdir] = "contrib"
 projects[views][subdir] = "contrib"
-projects[better_exposed_filters][subdir] = contrib
+projects[webform][subdir] = "contrib"
+projects[widgets][subdir] = "contrib"
+
 
 
 ; Theming
