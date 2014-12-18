@@ -1,9 +1,13 @@
 ; Drush Make API version.
 api = 2
 
+
+
 ; Drupal core.
 core = 7.x
 projects[drupal][version] = "7.x"
+
+
 
 ;Common modules.
 projects[admin_menu][subdir] = "contrib"
@@ -86,6 +90,16 @@ projects[pncbbuild][subdir] = "pnc"
 
 
 
+; Purencool Features
+projects[pncbbuild][type] = "module"
+projects[pncbbuild][download][type] = "git"
+projects[pncbbuild][download][url] = "https://github.com/purencool/pncfeatures.git"
+projects[pncbbuild][download][branch] = "master"
+projects[pncbbuild][subdir] = "pnc"
+
+
+
+; Purencool Theme
 projects[pncmbtheme][type] = "theme"
 projects[pncmbtheme][download][type] = "git"
 projects[pncmbtheme][download][url] = "https://github.com/purencool/pncmbtheme.git"
