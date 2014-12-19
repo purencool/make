@@ -48,6 +48,7 @@ projects[token][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[uuid][subdir] = "contrib"
 projects[views][subdir] = "contrib"
+projects[views_slideshow][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
 projects[widgets][subdir] = "contrib"
 
