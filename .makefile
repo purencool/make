@@ -91,11 +91,11 @@ projects[pncbbuild][subdir] = "pnc"
 
 
 ; Purencool Features
-projects[pncbbuild][type] = "module"
-projects[pncbbuild][download][type] = "git"
-projects[pncbbuild][download][url] = "https://github.com/purencool/pncfeatures.git"
-projects[pncbbuild][download][branch] = "master"
-projects[pncbbuild][subdir] = "pnc"
+projects[pncfeatures][type] = "module"
+projects[pncfeatures][download][type] = "git"
+projects[pncfeatures][download][url] = "https://github.com/purencool/pncfeatures.git"
+projects[pncfeatures][download][branch] = "master"
+projects[pncfeatures][subdir] = "pnc"
 
 
 
