@@ -69,7 +69,7 @@ projects[bxslider_views_slideshow][subdir] = "contrib"
 
 
 ; Libraries
-projects[bxslider][type] = "module"
+projects[bxslider][type] = "libraries"
 projects[bxslider][download][type] = "git"
 projects[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4.git"
 projects[bxslider][download][branch] = "master"
