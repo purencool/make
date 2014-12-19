@@ -69,11 +69,11 @@ projects[bxslider_views_slideshow][subdir] = "contrib"
 
 
 ; Libraries
-projects[bxslider][type] = "libraries"
-projects[bxslider][download][type] = "git"
-projects[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4.git"
-projects[bxslider][download][branch] = "master"
-projects[bxslider][subdir] = "bxslider"
+projects[bxslider][type] = "bxslider"
+libraries[bxslider][download][type] = "git"
+libraries[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4.git"
+libraries[bxslider][download][branch] = "master"
+libraries[bxslider][subdir] = "bxslider"
 
 
 
