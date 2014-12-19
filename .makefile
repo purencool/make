@@ -73,7 +73,7 @@ projects[bxslider][type] = "bxslider"
 libraries[bxslider][download][type] = "git"
 libraries[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4.git"
 libraries[bxslider][download][branch] = "master"
-libraries[bxslider][subdir] = "bxslider"
+libraries[bxslider][destination] = libraries
 
 
 
