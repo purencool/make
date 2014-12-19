@@ -62,7 +62,21 @@ projects[html5_tools][subdir] = "contrib"
 
 
 
+; Sliders
+projects[bxslider][subdir] = "contrib"
+projects[bxslider_views_slideshow][subdir] = "contrib"
+
+
+
 ; Libraries
+projects[bxslider][type] = "module"
+projects[bxslider][download][type] = "git"
+projects[bxslider][download][url] = "https://github.com/stevenwanderski/bxslider-4.git"
+projects[bxslider][download][branch] = "master"
+projects[bxslider][subdir] = "bxslider"
+
+
+
 projects[modernizr][subdir] = contrib
 libraries[modernizr][download][type] = file
 libraries[modernizr][download][url] = http://modernizr.com/downloads/modernizr-latest.js
