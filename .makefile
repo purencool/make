@@ -56,12 +56,17 @@ projects[widgets][subdir] = "contrib"
 
 
 
-; Theming
+; Main Themes
 projects[] = omega
 projects[] = mothership
-projects[scroll_to_top][subdir] = "contrib"
+
+
+
+; jQuey plugins and other
+projects[colorbox][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[html5_tools][subdir] = "contrib"
+projects[scroll_to_top][subdir] = "contrib"
 
 
 
@@ -78,6 +83,11 @@ libraries[bxslider][download][url] =  https://github.com/stevenwanderski/bxslide
 libraries[bxslider][download][branch] = master
 libraries[bxslider][destination] = libraries
 
+projects[colorbox][subdir] = contrib
+libraries[colorbox][download][type] = git
+libraries[colorbox][download][url] =  https://github.com/jackmoore/colorbox.git
+libraries[colorbox][download][branch] = master
+libraries[colorbox][destination] = libraries
 
 
 projects[modernizr][subdir] = contrib
