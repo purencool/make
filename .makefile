@@ -11,10 +11,12 @@ projects[drupal][version] = "7.x"
 
 ;Common modules.
 projects[admin_menu][subdir] = "contrib"
+projects[coffee][subdir] = "contrib"
 projects[backup_migrate][subdir] = "contrib"
 projects[bean][subdir] = "contrib"
 projects[bean_tax][subdir] = "contrib"
 projects[better_exposed_filters][subdir] = contrib
+projects[block_access][subdir] = contrib
 projects[ckeditor][subdir] = "contrib"
 projects[context][subdir] = "contrib"
 projects[context_omega][subdir] = "contrib"
@@ -62,7 +64,7 @@ projects[widgets][subdir] = "contrib"
 
 
 ; Main Themes
-projects[] = omega
+;projects[] = omega
 projects[] = mothership
 
 
@@ -141,7 +143,6 @@ projects[pncmbtheme][download][branch] = "master"
 
 ; Development modules
 projects[coder][subdir] = "development"
-projects[coffee][subdir] = "development"
 projects[devel][subdir] = "development"
 projects[devel_themer][subdir] = "development"
 projects[masquerade][subdir] = "development"
