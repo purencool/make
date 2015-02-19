@@ -18,17 +18,21 @@ projects[better_exposed_filters][subdir] = contrib
 projects[block_access][subdir] = contrib
 projects[ckeditor][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
+projects[easy_social][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 projects[entity_view_mode][subdir] = "contrib"
 projects[features][subdir] = "contrib"
 projects[honeypot][subdir] = "contrib"
 projects[insert][subdir] = "contrib"
+projects[globalredirect][subdir] = "contrib"
 projects[google_analytics][subdir] = "contrib"
 projects[gmap][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
+projects[metatag][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
 projects[mobile_navigation][subdir] = "contrib"
+projects[page_title][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[picture][subdir] = "contrib"
 projects[references][subdir] = "contrib"
@@ -43,11 +47,12 @@ projects[video_embed_field][subdir] = "contrib"
 projects[views][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
+projects[xmlsitemap][subdir] = "contrib"
 
 
 
 ; Extra modules.
-projects[easy_social][subdir] = "contribxtra"
+
 projects[eck][subdir] = "contribxtra"
 projects[context][subdir] = "contribxtra"
 projects[context_omega][subdir] = "contribxtra"
