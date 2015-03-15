@@ -38,6 +38,8 @@ projects[picture][subdir] = "contrib"
 projects[references][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
 projects[semanticviews][subdir] = "contrib"
+projects[seo][subdir] = "contrib"
+projects[seo_checklist][subdir] = "contrib"
 projects[simplenews][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
 projects[token][subdir] = "contrib"
@@ -52,8 +54,8 @@ projects[xmlsitemap][subdir] = "contrib"
 
 
 
-; Extra modules.
 
+; Extra modules.
 projects[eck][subdir] = "contribxtra"
 projects[context][subdir] = "contribxtra"
 projects[context_omega][subdir] = "contribxtra"
